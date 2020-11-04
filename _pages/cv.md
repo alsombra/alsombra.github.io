@@ -53,9 +53,6 @@ Teaching
 * Spring 2018: Teaching assistant at [Applied Mathematics Undergraduate Program - FGV/Emap](https://emap.fgv.br/graduacao/matematica-aplicada):
     * Learning and Inference course - Prof. Eduardo Mendes
 
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-
 Main Skills
 ======
 * Programming: Python (Scikit-learn, Keras, Pytorch, TensorFlow), Matlab,  R, Javascript, HTML, CSS.
