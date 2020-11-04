@@ -45,7 +45,7 @@ Teaching
 ======
 
 * Fall 2020: Teaching assistant at [Electrical Engineering Graduate Program (Puc-Rio)](http://www.ele.puc-rio.br/):
-    * [Advanced Deep Learning for Computer Vision - PUC-Rio](http://www.ele.puc-rio.br/~raul/DL2CV/) - Prof. Raul Feitosa
+    * [Advanced Deep Learning for Computer Vision](http://www.ele.puc-rio.br/~raul/DL2CV/) - Prof. Raul Feitosa
     
 * Fall 2018: Teaching assistant at [MBA in Business Analytics and Big Data - FGV](http://www.ele.puc-rio.br/~raul/DL2CV/):
     * Machine Learning/Predictive Analysis Module - Prof. Eduardo Mendes
